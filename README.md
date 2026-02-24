@@ -28,9 +28,9 @@ Engenheiro de Computação, empreendedor há mais de 20 anos e professor de Prog
 
 `Java` `Python` `JavaScript` `Machine Learning` `NLP` `LLMs` `Prompt Engineering`
 
-### 📫 Me encontre em
+### 📫 Me encontre nas redes sociais
 
-[![linktr.ee]](https://linktr.ee/ricardo.pupo)
+[linktr.ee](https://linktr.ee/ricardo.pupo)
 
 ---
 
