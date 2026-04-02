@@ -5,7 +5,7 @@ Engenheiro de Computação, empreendedor há mais de 20 anos e professor de Prog
 ### O que eu faço
 
 - 🏢 **Fundador da [T2S](https://t2s.com.br)** — consultoria em tecnologia com 70+ profissionais e 800+ projetos entregues para 140+ empresas
-- 🚀 **Fundador em 9 startups**
+- 🚀 **Fundador em 9 startups** (datarecintos.com.br, tecnologiaportuaria.info, evolurp.com.br, ponctual.com, relpz.com, hrelper.com, scale.press e leadnifier.com)
 - 📕 **Autor de ["Engenharia de Prompt para Devs"](https://www.casadocodigo.com.br/products/livro-engenharia-de-prompt)** — livro mais vendido da Casa do Código em 2024 e 2025
 - 🎓 **Professor na FATEC** — POO & Machine Learning
 - 🎙️ **Apresentador do [Desbugados](https://desbugados.com.br)** — podcast sobre tecnologia e inovação
